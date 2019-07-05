@@ -3,7 +3,7 @@
 ## Upload results only 
 
 Follow the naming format algorithm_prior_parameter_new
-算法名字+是否固定第一轮+新老环境+具体参数
+算法名字+是否固定第一轮+具体参数+新老环境
 Use a csv or txt or md file to report results.
 
 ### Tasks
